@@ -1,5 +1,11 @@
 # Diffusion AD
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ZhengYinan-AIR/Diffusion-Planner&type=Date)](https://www.star-history.com/#ZhengYinan-AIR/Diffusion-Planner&Date)
+:raised_hands: DiffusionAD​​ is a research team ​​focused on fully harnessing​​ the power of ​​diffusion models​​ for autonomous driving systems. Our ​​research interests​​ lie in:
 
-**DiffusionAD** is a research series that investigates the use of diffusion models in autonomous driving, originating from [Diffusion Planner](https://github.com/ZhengYinan-AIR/Diffusion-Planner).
+- ​​Diffusion model with efficient and effective architecture design​​ for ​​​​autonomous driving systems
+- Diffusion-based IL/RL algorithms​​ for ​​generalizable and robust​​ autonomous driving systems
+- ​​Diffusion-based​​ autonomous driving systems (​​Perception-Planning / End-to-End / VLA​​)
+
+Projects:
+
+- [Diffusion-Planner (ICLR 2025 oral): Diffusion-Based Planning for Autonomous Driving with Flexible Guidance](https://github.com/DiffusionAD/Diffusion-Planner)
