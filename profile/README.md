@@ -1,4 +1,5 @@
-![diffusionAD Band text](https://github.com/user-attachments/assets/61414895-35a8-447b-86fb-3aa89b5fb54f)
+![diffusionAD Band text 2](https://github.com/user-attachments/assets/8dbae366-2a9f-4963-a506-b76ec2f6a258)
+
 # Diffusion AD
 
 
